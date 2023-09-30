@@ -5,7 +5,7 @@ import './index.css';
 import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Router>
+  <Router basename={window.location.pathname || ''}>
     <Routes>
       <Route path='/' element={<App/>} />
     </Routes>
