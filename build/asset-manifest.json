@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ViraasatLLC/static/css/main.559120bf.css",
-    "main.js": "/ViraasatLLC/static/js/main.e60796a3.js",
+    "main.js": "/ViraasatLLC/static/js/main.e5c34dac.js",
     "static/js/872.4f129009.chunk.js": "/ViraasatLLC/static/js/872.4f129009.chunk.js",
     "static/js/227.b093417b.chunk.js": "/ViraasatLLC/static/js/227.b093417b.chunk.js",
     "static/js/526.b71802af.chunk.js": "/ViraasatLLC/static/js/526.b71802af.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/seo-marketing.png": "/ViraasatLLC/static/media/seo-marketing.9fe9f32c8eaae4e66564.png",
     "index.html": "/ViraasatLLC/index.html",
     "main.559120bf.css.map": "/ViraasatLLC/static/css/main.559120bf.css.map",
-    "main.e60796a3.js.map": "/ViraasatLLC/static/js/main.e60796a3.js.map",
+    "main.e5c34dac.js.map": "/ViraasatLLC/static/js/main.e5c34dac.js.map",
     "872.4f129009.chunk.js.map": "/ViraasatLLC/static/js/872.4f129009.chunk.js.map",
     "227.b093417b.chunk.js.map": "/ViraasatLLC/static/js/227.b093417b.chunk.js.map",
     "526.b71802af.chunk.js.map": "/ViraasatLLC/static/js/526.b71802af.chunk.js.map",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.559120bf.css",
-    "static/js/main.e60796a3.js"
+    "static/js/main.e5c34dac.js"
   ]
 }
